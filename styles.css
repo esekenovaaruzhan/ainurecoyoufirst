@@ -53,9 +53,8 @@ margin: 50px 350px 50px 350px;
      height:2px
    }
    ul {
-     position: absolute;
-      left: 600px;
-      top:1850px;
+     position: relative;
+      
 
    }
 .pic2{
